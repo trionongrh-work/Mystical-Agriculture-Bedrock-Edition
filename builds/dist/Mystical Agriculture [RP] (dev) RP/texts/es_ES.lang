@@ -1,6 +1,0 @@
-mysticalAgriculture:message.warn.1=§cParece que algo salió mal al cargar §dMystical §5Agriculture§c. Por favor verifica lo siguiente:
-mysticalAgriculture:message.warn.2=§c- Este add-on está diseñado para la última versión estable de Minecraft (1.21.72 al momento de escribir esto).
-mysticalAgriculture:message.warn.3=§c- Asegúrate de que la opción experimental 'Beta APIs' esté habilitada
-mysticalAgriculture:message.warn.4=§c- Es probable que el add-on no funcione en versiones Preview de Minecraft
-mysticalAgriculture:message.warn.5=§c- Puede que Minecraft se haya actualizado recientemente, y el add-on necesite tiempo para actualizarse a la nueva versión
-mysticalAgriculture:message.warn.6=§gEste texto aparecerá cada 10 segundos. Escribe el comando "/tag @s add mystical:ok" para ignorar este mensaje.
