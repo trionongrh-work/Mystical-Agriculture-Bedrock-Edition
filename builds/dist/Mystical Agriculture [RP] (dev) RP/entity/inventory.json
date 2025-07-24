@@ -1,0 +1,26 @@
+{
+	"format_version": "1.10.0",
+	"minecraft:client_entity": {
+		"description": {
+			"identifier": "mysticalagriculture:inventory",
+			"materials": {
+				"default": "bat"
+			},
+			"textures": {
+				"default": "textures/entity/horse/armor/horse_armor_none"
+			},
+			"geometry": {
+				"default": "geometry.item.mysticalagriculture"
+			},
+			"spawn_egg": {
+				"base_color": "#FFFFFF",
+				"texture": "apple"
+			},
+			"render_controllers": [
+				{
+					"controller.render.armor_stand": true
+				}
+			]
+		}
+	}
+}
