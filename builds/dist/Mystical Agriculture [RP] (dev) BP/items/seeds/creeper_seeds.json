@@ -1,24 +1,17 @@
 {
-	"format_version": "1.17.0",
+	"format_version": "1.20.80",
 	"minecraft:item": {
 		"description": {
-			"identifier": "strat:creeper_seeds",
-			"category": "nature"
-		},
-		"components": {
-			"minecraft:icon": {
-				"texture": "creeper_seeds"
-			},
-			"minecraft:display_name": {
-				"value": "Creeper Seeds\n§7Tier: §63§r"
-			},
-			"minecraft:creative_category": {
-				"parent": "itemGroup.name.seed"
-			},
-			"minecraft:block_placer": {
-				"block": "strat:creeper_crop"
+			"identifier": "mysticalagriculture:creeper_seeds",
+			"menu_category": {
+				"category": "equipment"
 			}
 		},
-		"events": {}
+		"components": {
+			"minecraft:icon": "creeper_seeds",
+			"minecraft:block_placer": {
+				"block": "mysticalagriculture:creeper_crop"
+			}
+		}
 	}
 }
