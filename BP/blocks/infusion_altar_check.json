@@ -1,0 +1,40 @@
+{
+	"format_version": "1.21.10",
+	"minecraft:block": {
+		"description": {
+			"identifier": "mysticalagriculture:infusion_altar_check",
+			"menu_category": {
+				"category": "none"
+			},
+			"states": {
+				"mysticalagriculture:is_active": [
+					false,
+					true
+				]
+			}
+		},
+		"components": {
+			"minecraft:geometry": {
+				"identifier": "geometry.empty"
+			},
+			"minecraft:material_instances": {
+				"*": {
+					"texture": "infusion_all_transparent",
+					"render_method": "blend"
+				}
+			},
+			"minecraft:loot": "loot_tables/empty.json",
+			"minecraft:tick": {
+				"interval_range": [
+					20,
+					20
+				]
+			},
+			"minecraft:custom_components": [
+				"mysticalagriculture:altar_check"
+			],
+			"minecraft:collision_box": false,
+			"minecraft:selection_box": false
+		}
+	}
+}

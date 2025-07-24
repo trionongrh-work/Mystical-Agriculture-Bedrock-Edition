@@ -1,0 +1,21 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:ore_feature": {
+		"description": {
+			"identifier": "mysticalagriculture:soulstone_ore_feature"
+		},
+		"count": 3,
+		"replace_rules": [
+			{
+				"places_block": {
+					"name": "mysticalagriculture:soulium_ore"
+				},
+				"may_replace": [
+					{
+						"name": "mysticalagriculture:soulstone"
+					}
+				]
+			}
+		]
+	}
+}
