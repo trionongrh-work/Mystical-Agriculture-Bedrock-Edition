@@ -1,0 +1,17 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "mysticalagriculture:glowstone_seeds",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:icon": "glowstone_seeds",
+			"minecraft:block_placer": {
+				"block": "mysticalagriculture:glowstone_crop"
+			}
+		}
+	}
+}

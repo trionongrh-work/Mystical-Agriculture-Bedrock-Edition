@@ -1,0 +1,38 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "mysticalagriculture:honey_agglomeratio"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:honey_bottle"
+			},
+			"S": {
+				"item": "minecraft:honeycomb"
+			},
+			"D": {
+				"item": "minecraft:honeycomb"
+			},
+			"F": {
+				"item": "minecraft:honey_bottle"
+			}
+		},
+		"pattern": [
+			"AS",
+			"DF"
+		],
+		"result": [
+			{
+				"item": "minecraft:glass_bottle",
+				"count": 2
+			},
+			{
+				"item": "mysticalagriculture:honey_agglomeratio"
+			}
+		]
+	}
+}

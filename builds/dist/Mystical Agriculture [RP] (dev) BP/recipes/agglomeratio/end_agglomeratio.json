@@ -1,0 +1,32 @@
+{
+	"format_version": "1.12",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "mysticalagriculture:end_agglomeratio"
+		},
+		"tags": [
+			"crafting_table"
+		],
+		"key": {
+			"A": {
+				"item": "minecraft:end_stone"
+			},
+			"S": {
+				"item": "minecraft:chorus_fruit"
+			},
+			"D": {
+				"item": "minecraft:purpur_block"
+			},
+			"F": {
+				"item": "minecraft:end_stone"
+			}
+		},
+		"pattern": [
+			"AS",
+			"DF"
+		],
+		"result": {
+			"item": "mysticalagriculture:end_agglomeratio"
+		}
+	}
+}

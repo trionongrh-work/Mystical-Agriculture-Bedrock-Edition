@@ -1,0 +1,624 @@
+{
+	"format_version": "1.21.60",
+	"minecraft:crafting_items_catalog": {
+		"categories": [
+			{
+				"category_name": "equipment",
+				"groups": [
+					{
+						"group_identifier": {
+							"name": "minecraft:itemGroup.name.helmet"
+						},
+						"items": [
+							"mysticalagriculture:inferium_helmet",
+							"mysticalagriculture:prudentium_helmet",
+							"mysticalagriculture:tertium_helmet",
+							"mysticalagriculture:imperium_helmet",
+							"mysticalagriculture:supremium_helmet"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "minecraft:itemGroup.name.chestplate"
+						},
+						"items": [
+							"mysticalagriculture:inferium_chestplate",
+							"mysticalagriculture:prudentium_chestplate",
+							"mysticalagriculture:tertium_chestplate",
+							"mysticalagriculture:imperium_chestplate",
+							"mysticalagriculture:supremium_chestplate"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "minecraft:itemGroup.name.leggings"
+						},
+						"items": [
+							"mysticalagriculture:inferium_leggings",
+							"mysticalagriculture:prudentium_leggings",
+							"mysticalagriculture:tertium_leggings",
+							"mysticalagriculture:imperium_leggings",
+							"mysticalagriculture:supremium_leggings"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "minecraft:itemGroup.name.boots"
+						},
+						"items": [
+							"mysticalagriculture:inferium_boots",
+							"mysticalagriculture:prudentium_boots",
+							"mysticalagriculture:tertium_boots",
+							"mysticalagriculture:imperium_boots",
+							"mysticalagriculture:supremium_boots"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "minecraft:itemGroup.name.sword"
+						},
+						"items": [
+							"mysticalagriculture:inferium_sword",
+							"mysticalagriculture:prudentium_sword",
+							"mysticalagriculture:tertium_sword",
+							"mysticalagriculture:imperium_sword",
+							"mysticalagriculture:supremium_sword"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "minecraft:itemGroup.name.axe"
+						},
+						"items": [
+							"mysticalagriculture:inferium_axe",
+							"mysticalagriculture:prudentium_axe",
+							"mysticalagriculture:tertium_axe",
+							"mysticalagriculture:imperium_axe",
+							"mysticalagriculture:supremium_axe"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "minecraft:itemGroup.name.pickaxe"
+						},
+						"items": [
+							"mysticalagriculture:inferium_pickaxe",
+							"mysticalagriculture:prudentium_pickaxe",
+							"mysticalagriculture:tertium_pickaxe",
+							"mysticalagriculture:imperium_pickaxe",
+							"mysticalagriculture:supremium_pickaxe"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "minecraft:itemGroup.name.shovel"
+						},
+						"items": [
+							"mysticalagriculture:inferium_shovel",
+							"mysticalagriculture:prudentium_shovel",
+							"mysticalagriculture:tertium_shovel",
+							"mysticalagriculture:imperium_shovel",
+							"mysticalagriculture:supremium_shovel"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "minecraft:itemGroup.name.hoe"
+						},
+						"items": [
+							"mysticalagriculture:inferium_hoe",
+							"mysticalagriculture:prudentium_hoe",
+							"mysticalagriculture:tertium_hoe",
+							"mysticalagriculture:imperium_hoe",
+							"mysticalagriculture:supremium_hoe"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.watering_can",
+							"icon": "mysticalagriculture:inferium_watering_can"
+						},
+						"items": [
+							"mysticalagriculture:inferium_watering_can",
+							"mysticalagriculture:prudentium_watering_can",
+							"mysticalagriculture:tertium_watering_can",
+							"mysticalagriculture:imperium_watering_can",
+							"mysticalagriculture:supremium_watering_can",
+							"mysticalagriculture:watering_can"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.soul_jar",
+							"icon": "mysticalagriculture:soul_jar"
+						},
+						"items": [
+							"mysticalagriculture:sheep_soul_jar",
+							"mysticalagriculture:blizz_soul_jar",
+							"mysticalagriculture:slime_soul_jar",
+							"mysticalagriculture:fish_soul_jar",
+							"mysticalagriculture:blaze_soul_jar",
+							"mysticalagriculture:basalz_soul_jar",
+							"mysticalagriculture:ghast_soul_jar",
+							"mysticalagriculture:zombie_soul_jar",
+							"mysticalagriculture:cow_soul_jar",
+							"mysticalagriculture:creeper_soul_jar",
+							"mysticalagriculture:rabbit_soul_jar",
+							"mysticalagriculture:blitz_soul_jar",
+							"mysticalagriculture:skeleton_soul_jar",
+							"mysticalagriculture:wither_skeleton_soul_jar",
+							"mysticalagriculture:soul_jar",
+							"mysticalagriculture:chicken_soul_jar",
+							"mysticalagriculture:enderman_soul_jar",
+							"mysticalagriculture:pig_soul_jar",
+							"mysticalagriculture:squid_soul_jar",
+							"mysticalagriculture:turtle_soul_jar",
+							"mysticalagriculture:spider_soul_jar"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.soul_jar_full",
+							"icon": "mysticalagriculture:blaze_soul_jar_full"
+						},
+						"items": [
+							"mysticalagriculture:chicken_soul_jar_full",
+							"mysticalagriculture:creeper_soul_jar_full",
+							"mysticalagriculture:skeleton_soul_jar_full",
+							"mysticalagriculture:turtle_soul_jar_full",
+							"mysticalagriculture:pig_soul_jar_full",
+							"mysticalagriculture:ghast_soul_jar_full",
+							"mysticalagriculture:blaze_soul_jar_full",
+							"mysticalagriculture:squid_soul_jar_full",
+							"mysticalagriculture:rabbit_soul_jar_full",
+							"mysticalagriculture:zombie_soul_jar_full",
+							"mysticalagriculture:wither_skeleton_soul_jar_full",
+							"mysticalagriculture:enderman_soul_jar_full",
+							"mysticalagriculture:sheep_soul_jar_full",
+							"mysticalagriculture:blitz_soul_jar_full",
+							"mysticalagriculture:spider_soul_jar_full",
+							"mysticalagriculture:slime_soul_jar_full",
+							"mysticalagriculture:fish_soul_jar_full",
+							"mysticalagriculture:basalz_soul_jar_full",
+							"mysticalagriculture:blizz_soul_jar_full",
+							"mysticalagriculture:cow_soul_jar_full"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.dagger",
+							"icon": "mysticalagriculture:soulium_dagger"
+						},
+						"items": [
+							"mysticalagriculture:passive_soulium_dagger",
+							"mysticalagriculture:hostile_soulium_dagger",
+							"mysticalagriculture:soulium_dagger",
+							"mysticalagriculture:creative_soulium_dagger"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.scythe",
+							"icon": "mysticalagriculture:inferium_scythe"
+						},
+						"items": [
+							"mysticalagriculture:inferium_scythe",
+							"mysticalagriculture:prudentium_scythe",
+							"mysticalagriculture:tertium_scythe",
+							"mysticalagriculture:imperium_scythe",
+							"mysticalagriculture:supremium_scythe",
+							"mysticalagriculture:diamond_scythe"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.sickle",
+							"icon": "mysticalagriculture:inferium_sickle"
+						},
+						"items": [
+							"mysticalagriculture:inferium_sickle",
+							"mysticalagriculture:prudentium_sickle",
+							"mysticalagriculture:tertium_sickle",
+							"mysticalagriculture:imperium_sickle",
+							"mysticalagriculture:supremium_sickle",
+							"mysticalagriculture:diamond_sickle"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.mystical_bow",
+							"icon": "mysticalagriculture:inferium_bow"
+						},
+						"items": [
+							"mysticalagriculture:inferium_bow",
+							"mysticalagriculture:prudentium_bow",
+							"mysticalagriculture:tertium_bow",
+							"mysticalagriculture:imperium_bow",
+							"mysticalagriculture:supremium_bow"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.mystical_shears",
+							"icon": "mysticalagriculture:inferium_shears"
+						},
+						"items": [
+							"mysticalagriculture:inferium_shears",
+							"mysticalagriculture:prudentium_shears",
+							"mysticalagriculture:tertium_shears",
+							"mysticalagriculture:imperium_shears",
+							"mysticalagriculture:supremium_shears"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "mysticalagriculture:air_seeds",
+							"name": "mysticalagriculture:itemGroup.name.mysticalSeeds"
+						},
+						"items": [
+							"mysticalagriculture:inferium_seeds",
+							"mysticalagriculture:nature_seeds",
+							"mysticalagriculture:rabbit_seeds",
+							"mysticalagriculture:template_seeds",
+							"mysticalagriculture:chicken_seeds",
+							"mysticalagriculture:obsidian_seeds",
+							"mysticalagriculture:ice_seeds",
+							"mysticalagriculture:peridot_seeds",
+							"mysticalagriculture:wither_skeleton_seeds",
+							"mysticalagriculture:bronze_seeds",
+							"mysticalagriculture:nickel_seeds",
+							"mysticalagriculture:nether_quartz_seeds",
+							"mysticalagriculture:cow_seeds",
+							"mysticalagriculture:turtle_seeds",
+							"mysticalagriculture:amethyst_seeds",
+							"mysticalagriculture:fire_seeds",
+							"mysticalagriculture:graphite_seeds",
+							"mysticalagriculture:tin_seeds",
+							"mysticalagriculture:brass_seeds",
+							"mysticalagriculture:ruby_seeds",
+							"mysticalagriculture:wood_seeds",
+							"mysticalagriculture:steel_seeds",
+							"mysticalagriculture:dye_seeds",
+							"mysticalagriculture:iron_seeds",
+							"mysticalagriculture:zombie_seeds",
+							"mysticalagriculture:emerald_seeds",
+							"mysticalagriculture:prismarine_seeds",
+							"mysticalagriculture:constantan_seeds",
+							"mysticalagriculture:sheep_seeds",
+							"mysticalagriculture:rubber_seeds",
+							"mysticalagriculture:squid_seeds",
+							"mysticalagriculture:creeper_seeds",
+							"mysticalagriculture:zinc_seeds",
+							"mysticalagriculture:netherite_seeds",
+							"mysticalagriculture:glowstone_seeds",
+							"mysticalagriculture:silver_seeds",
+							"mysticalagriculture:sapphire_seeds",
+							"mysticalagriculture:redstone_seeds",
+							"mysticalagriculture:iridium_seeds",
+							"mysticalagriculture:apatite_seeds",
+							"mysticalagriculture:blaze_seeds",
+							"mysticalagriculture:saltpeter_seeds",
+							"mysticalagriculture:diamond_seeds",
+							"mysticalagriculture:experience_seeds",
+							"mysticalagriculture:platinum_seeds",
+							"mysticalagriculture:end_seeds",
+							"mysticalagriculture:water_seeds",
+							"mysticalagriculture:aluminum_seeds",
+							"mysticalagriculture:sulfur_seeds",
+							"mysticalagriculture:skeleton_seeds",
+							"mysticalagriculture:coal_seeds",
+							"mysticalagriculture:lapis_lazuli_seeds",
+							"mysticalagriculture:stone_seeds",
+							"mysticalagriculture:dirt_seeds",
+							"mysticalagriculture:air_seeds",
+							"mysticalagriculture:honey_seeds",
+							"mysticalagriculture:spider_seeds",
+							"mysticalagriculture:fish_seeds",
+							"mysticalagriculture:silicon_seeds",
+							"mysticalagriculture:earth_seeds",
+							"mysticalagriculture:pig_seeds",
+							"mysticalagriculture:nether_seeds",
+							"mysticalagriculture:uranium_seeds",
+							"mysticalagriculture:ghast_seeds",
+							"mysticalagriculture:coral_seeds",
+							"mysticalagriculture:deepslate_seeds",
+							"mysticalagriculture:copper_seeds",
+							"mysticalagriculture:enderman_seeds",
+							"mysticalagriculture:gold_seeds",
+							"mysticalagriculture:lead_seeds",
+							"mysticalagriculture:electrum_seeds",
+							"mysticalagriculture:invar_seeds",
+							"mysticalagriculture:slime_seeds"
+						]
+					},
+					{
+						"group_identifier": {
+							"icon": "mysticalagriculture:inferium_essence",
+							"name": "mysticalagriculture:itemGroup.name.essence"
+						},
+						"items": [
+							"mysticalagriculture:inferium_essence",
+							"mysticalagriculture:prudentium_essence",
+							"mysticalagriculture:tertium_essence",
+							"mysticalagriculture:imperium_essence",
+							"mysticalagriculture:supremium_essence",
+							"mysticalagriculture:nature_essence",
+							"mysticalagriculture:pig_essence",
+							"mysticalagriculture:diamond_essence",
+							"mysticalagriculture:redstone_essence",
+							"mysticalagriculture:sapphire_essence",
+							"mysticalagriculture:graphite_essence",
+							"mysticalagriculture:earth_essence",
+							"mysticalagriculture:squid_essence",
+							"mysticalagriculture:nether_essence",
+							"mysticalagriculture:turtle_essence",
+							"mysticalagriculture:honey_essence",
+							"mysticalagriculture:blaze_essence",
+							"mysticalagriculture:wood_essence",
+							"mysticalagriculture:sheep_essence",
+							"mysticalagriculture:ice_essence",
+							"mysticalagriculture:ghast_essence",
+							"mysticalagriculture:tin_essence",
+							"mysticalagriculture:template_essence",
+							"mysticalagriculture:silicon_essence",
+							"mysticalagriculture:dye_essence",
+							"mysticalagriculture:slime_essence",
+							"mysticalagriculture:dirt_essence",
+							"mysticalagriculture:saltpeter_essence",
+							"mysticalagriculture:lead_essence",
+							"mysticalagriculture:fire_essence",
+							"mysticalagriculture:aluminum_essence",
+							"mysticalagriculture:rabbit_essence",
+							"mysticalagriculture:silver_essence",
+							"mysticalagriculture:platinum_essence",
+							"mysticalagriculture:rubber_essence",
+							"mysticalagriculture:nickel_essence",
+							"mysticalagriculture:coral_essence",
+							"mysticalagriculture:obsidian_essence",
+							"mysticalagriculture:prismarine_essence",
+							"mysticalagriculture:gold_essence",
+							"mysticalagriculture:coal_essence",
+							"mysticalagriculture:zinc_essence",
+							"mysticalagriculture:iridium_essence",
+							"mysticalagriculture:cow_essence",
+							"mysticalagriculture:peridot_essence",
+							"mysticalagriculture:fish_essence",
+							"mysticalagriculture:water_essence",
+							"mysticalagriculture:enderman_essence",
+							"mysticalagriculture:end_essence",
+							"mysticalagriculture:uranium_essence",
+							"mysticalagriculture:wither_skeleton_essence",
+							"mysticalagriculture:spider_essence",
+							"mysticalagriculture:creeper_essence",
+							"mysticalagriculture:invar_essence",
+							"mysticalagriculture:electrum_essence",
+							"mysticalagriculture:chicken_essence",
+							"mysticalagriculture:emerald_essence",
+							"mysticalagriculture:iron_essence",
+							"mysticalagriculture:experience_essence",
+							"mysticalagriculture:lapis_lazuli_essence",
+							"mysticalagriculture:fertilized_essence",
+							"mysticalagriculture:copper_essence",
+							"mysticalagriculture:apatite_essence",
+							"mysticalagriculture:sulfur_essence",
+							"mysticalagriculture:skeleton_essence",
+							"mysticalagriculture:zombie_essence",
+							"mysticalagriculture:netherite_essence",
+							"mysticalagriculture:nether_quartz_essence",
+							"mysticalagriculture:stone_essence",
+							"mysticalagriculture:ruby_essence",
+							"mysticalagriculture:bronze_essence",
+							"mysticalagriculture:brass_essence",
+							"mysticalagriculture:glowstone_essence",
+							"mysticalagriculture:steel_essence",
+							"mysticalagriculture:amethyst_essence",
+							"mysticalagriculture:air_essence",
+							"mysticalagriculture:deepslate_essence",
+							"mysticalagriculture:constantan_essence"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.ingot",
+							"icon": "mysticalagriculture:inferium_ingot"
+						},
+						"items": [
+							"mysticalagriculture:inferium_ingot",
+							"mysticalagriculture:prudentium_ingot",
+							"mysticalagriculture:tertium_ingot",
+							"mysticalagriculture:imperium_ingot",
+							"mysticalagriculture:supremium_ingot"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.nugget",
+							"icon": "mysticalagriculture:inferium_nugget"
+						},
+						"items": [
+							"mysticalagriculture:inferium_nugget",
+							"mysticalagriculture:prudentium_nugget",
+							"mysticalagriculture:tertium_nugget",
+							"mysticalagriculture:imperium_nugget",
+							"mysticalagriculture:supremium_nugget"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.gemstone",
+							"icon": "mysticalagriculture:inferium_gemstone"
+						},
+						"items": [
+							"mysticalagriculture:inferium_gemstone",
+							"mysticalagriculture:prudentium_gemstone",
+							"mysticalagriculture:tertium_gemstone",
+							"mysticalagriculture:imperium_gemstone",
+							"mysticalagriculture:supremium_gemstone"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.agglomeratio",
+							"icon": "mysticalagriculture:air_agglomeratio"
+						},
+						"items": [
+							"mysticalagriculture:end_agglomeratio",
+							"mysticalagriculture:dye_agglomeratio",
+							"mysticalagriculture:nature_agglomeratio",
+							"mysticalagriculture:fire_agglomeratio",
+							"mysticalagriculture:nether_agglomeratio",
+							"mysticalagriculture:honey_agglomeratio",
+							"mysticalagriculture:coral_agglomeratio",
+							"mysticalagriculture:prismarine_agglomeratio",
+							"mysticalagriculture:air_agglomeratio",
+							"mysticalagriculture:water_agglomeratio",
+							"mysticalagriculture:earth_agglomeratio"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.upgrade",
+							"icon": "mysticalagriculture:inferium_upgrade"
+						},
+						"items": [
+							"mysticalagriculture:inferium_upgrade",
+							"mysticalagriculture:prudentium_upgrade",
+							"mysticalagriculture:tertium_upgrade",
+							"mysticalagriculture:imperium_upgrade",
+							"mysticalagriculture:supremium_upgrade",
+							"mysticalagriculture:upgrade_base"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.prosperity",
+							"icon": "mysticalagriculture:prosperity_seed_base"
+						},
+						"items": [
+							"mysticalagriculture:prosperity_ingot",
+							"mysticalagriculture:prosperity_seed_base",
+							"mysticalagriculture:prosperity_nugget",
+							"mysticalagriculture:prosperity_gemstone",
+							"mysticalagriculture:prosperity_shard"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.experience_capsule",
+							"icon": "mysticalagriculture:experience_capsule"
+						},
+						"items": [
+							"mysticalagriculture:experience_capsule_full",
+							"mysticalagriculture:experience_capsule"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.miscellaneous",
+							"icon": "mysticalagriculture:blank_skull"
+						},
+						"items": [
+							"mysticalagriculture:soul_dust",
+							"mysticalagriculture:experience_droplet",
+							"mysticalagriculture:master_infusion_crystal",
+							"mysticalagriculture:blank_skull",
+							"mysticalagriculture:mystical_fertilizer",
+							"mysticalagriculture:infusion_crystal",
+							"mysticalagriculture:blank_record",
+							"mysticalagriculture:wand"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.soulium",
+							"icon": "mysticalagriculture:soulium_seed_base"
+						},
+						"items": [
+							"mysticalagriculture:soulium_essence",
+							"mysticalagriculture:soulium_seed_base",
+							"mysticalagriculture:soulium_seeds",
+							"mysticalagriculture:soulium_ingot",
+							"mysticalagriculture:soulium_gemstone",
+							"mysticalagriculture:soulium_nugget",
+							"mysticalagriculture:soulium_dust"
+						]
+					}
+				]
+			},
+			{
+				"category_name": "construction",
+				"groups": [
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.farmland",
+							"icon": "mysticalagriculture:inferium_farmland"
+						},
+						"items": [
+							"mysticalagriculture:inferium_farmland",
+							"mysticalagriculture:prudentium_farmland",
+							"mysticalagriculture:tertium_farmland",
+							"mysticalagriculture:imperium_farmland",
+							"mysticalagriculture:supremium_farmland"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.block",
+							"icon": "mysticalagriculture:inferium_block"
+						},
+						"items": [
+							"mysticalagriculture:inferium_block",
+							"mysticalagriculture:prudentium_block",
+							"mysticalagriculture:tertium_block",
+							"mysticalagriculture:imperium_block",
+							"mysticalagriculture:supremium_block",
+							"mysticalagriculture:soulium_block",
+							"mysticalagriculture:prosperity_block"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.ingot_block",
+							"icon": "mysticalagriculture:inferium_ingot_block"
+						},
+						"items": [
+							"mysticalagriculture:inferium_ingot_block",
+							"mysticalagriculture:prudentium_ingot_block",
+							"mysticalagriculture:tertium_ingot_block",
+							"mysticalagriculture:imperium_ingot_block",
+							"mysticalagriculture:supremium_ingot_block",
+							"mysticalagriculture:soulium_ingot_block",
+							"mysticalagriculture:prosperity_ingot_block"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.gemstone_block",
+							"icon": "mysticalagriculture:inferium_block"
+						},
+						"items": [
+							"mysticalagriculture:inferium_gemstone_block",
+							"mysticalagriculture:prudentium_gemstone_block",
+							"mysticalagriculture:tertium_gemstone_block",
+							"mysticalagriculture:imperium_gemstone_block",
+							"mysticalagriculture:supremium_gemstone_block",
+							"mysticalagriculture:soulium_gemstone_block",
+							"mysticalagriculture:prosperity_gemstone_block"
+						]
+					},
+					{
+						"group_identifier": {
+							"name": "mysticalagriculture:itemGroup.name.witherproof",
+							"icon": "mysticalagriculture:witherproof_block"
+						},
+						"items": [
+							"mysticalagriculture:witherproof_glass",
+							"mysticalagriculture:witherproof_bricks",
+							"mysticalagriculture:witherproof_block"
+						]
+					}
+				]
+			}
+		]
+	}
+}

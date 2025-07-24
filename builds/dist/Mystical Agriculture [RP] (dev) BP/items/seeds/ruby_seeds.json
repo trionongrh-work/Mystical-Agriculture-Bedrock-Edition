@@ -1,0 +1,17 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:item": {
+		"description": {
+			"identifier": "mysticalagriculture:ruby_seeds",
+			"menu_category": {
+				"category": "equipment"
+			}
+		},
+		"components": {
+			"minecraft:icon": "ruby_seeds",
+			"minecraft:block_placer": {
+				"block": "mysticalagriculture:ruby_crop"
+			}
+		}
+	}
+}

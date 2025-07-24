@@ -1,0 +1,40 @@
+{
+	"format_version": "1.20.80",
+	"minecraft:ore_feature": {
+		"description": {
+			"identifier": "mysticalagriculture:deepslate_inferium_ore_feature"
+		},
+		"count": 9,
+		"replace_rules": [
+			{
+				"places_block": {
+					"name": "mysticalagriculture:deepslate_inferium_ore",
+					"states": {}
+				},
+				"may_replace": [
+					{
+						"name": "minecraft:deepslate"
+					},
+					{
+						"name": "minecraft:stone",
+						"states": {
+							"stone_type": "andesite"
+						}
+					},
+					{
+						"name": "minecraft:stone",
+						"states": {
+							"stone_type": "granite"
+						}
+					},
+					{
+						"name": "minecraft:stone",
+						"states": {
+							"stone_type": "diorite"
+						}
+					}
+				]
+			}
+		]
+	}
+}
