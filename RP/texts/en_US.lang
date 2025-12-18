@@ -2,7 +2,7 @@ pack.name=Mystical Agriculture Bedrock (Unofficial Port) V1.0.1
 pack.description=Mystical Agriculture is a mod based around the concept of growing your resources with crops. Use crops to grow essences used to make materials, mob drops, tools, armor and possibly even more!
 
 mysticalAgriculture:message.warn.1=§cIt seems something went wrong while loading §dMystical §5Agriculture§c. Please check the following:
-mysticalAgriculture:message.warn.2=§c- This addon is intended for the latest stable version of Minecraft (1.21.72 at the time of writing).
+mysticalAgriculture:message.warn.2=§c- This addon is intended for the latest stable version of Minecraft (1.21.131 at the time of writing).
 mysticalAgriculture:message.warn.3=§c- Make sure the experimental 'Beta APIs' option is enabled
 mysticalAgriculture:message.warn.4=§c- The addon will likely not work on Minecraft Preview versions
 mysticalAgriculture:message.warn.5=§c- Minecraft may have just updated, and the addon might need time to be updated for the new version

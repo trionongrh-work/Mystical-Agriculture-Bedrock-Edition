@@ -8,11 +8,7 @@
 	"header": {
 		"name": "pack.name",
 		"description": "pack.description",
-		"min_engine_version": [
-			1,
-			21,
-			0
-		],
+		"min_engine_version": [1, 21, 131],
 		"uuid": "c64b1e87-93eb-4915-879b-3db198ac6f0e",
 		"version": [
 			1,
